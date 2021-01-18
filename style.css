@@ -1,0 +1,136 @@
+body{
+    margin:0px;
+    background-color: #D1D5DB;
+}
+.navigation{
+    background-color: #831843;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 0.5rem 1rem;
+    color: white;
+}
+.nav-a{
+    text-decoration: none;
+    color:#831843;
+}
+.nav-ul
+{
+    text-align: right;
+}
+.nav-li
+{
+    display: inline;
+    margin:0.5rem;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px 5px;
+    background-color:white;
+    border-radius: 5px;
+    color:#831843;
+}
+.header
+{
+    background-color: #D1D5DB;
+    color: #831843;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+.header-img
+{
+    max-width: 300px;
+}
+.header-a
+{
+    font-weight: bold;
+   text-decoration: none;
+   color: #1F2937;
+}
+.section1
+{
+    padding: 0.5rem 0.8rem;
+    text-align: center;
+    background-color: #831843;
+    color: white;
+}
+.section2
+{
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    background-color: #D1D5DB;
+    color: #1F2937;
+}
+.section3
+{
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    background-color: #831843;
+    color: White;
+    margin:0px
+}
+.primary-link
+{
+    text-decoration: none;
+    background-color: #831843;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border:2px solid black ;
+    margin: 0.5rem;
+
+}
+.secondary-link
+{
+    text-decoration: none;
+    background-color: #D1D5DB;
+    color: #831843;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border:2px solid black ;
+    margin: 0.5rem;
+}
+.footer
+{
+    background-color: black;
+    text-align: center;
+    color: White;
+    padding: 0.5rem;
+}
+.footer-li
+{
+    display: inline;
+    margin: 5px;
+}
+.footer-a{
+    text-decoration: none;
+    color:white;
+}
+.project-ol
+{
+    margin: 0px;
+    background-color: #D1D5DB;
+}
+.project-li
+{
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    background-color: #D1D5DB;
+    color: #1F2937;
+}
+#blogimg{
+    width:90%; 
+    border:2px solid black;
+   }
+#blog
+{
+    padding:23px;
+    text-align: left;
+}
+.blog-ol
+{
+    margin-bottom: 5.6rem;
+}
+/* lightpink-#FBCFE8  pink-*/
